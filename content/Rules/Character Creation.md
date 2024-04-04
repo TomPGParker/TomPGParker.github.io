@@ -11,5 +11,5 @@ share: true
 	6. [Crystal Bay](Crystal%20Bay.md) local
 	7. Somewhere else
 3. Describe the nature of the [Races](Races.md)
-4. Provide [Foci Quick Reference.pdf](./Rules/Player%20Handouts/Foci%20Quick%20Reference.pdf), [Character Sheet.pdf](./Rules/Player%20Handouts/Character%20Sheet.pdf) and [Rules Summary.pdf](./Rules/Player%20Handouts/Rules%20Summary.pdf)
+4. Provide [Foci Quick Reference.pdf](./Player%20Handouts/Foci%20Quick%20Reference.pdf), [Character Sheet.pdf](./Player%20Handouts/Character%20Sheet.pdf) and [Rules Summary.pdf](./Player%20Handouts/Rules%20Summary.pdf)
 5. Run the players through the character creation rules in WWN pg. 6.
