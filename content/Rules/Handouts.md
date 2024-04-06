@@ -1,4 +1,5 @@
 ---
+Summary: Contains a list of links to PDF handouts for players
 share: true
 ---
 
