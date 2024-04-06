@@ -9,7 +9,7 @@ share: true
 #PlayerCharacter 
 
 ## Inventory
-- [Green Fairy Hat](../../Items/Green%20Fairy%20Hat.md)
+- [Green Fairy Hat](../Items/Green%20Fairy%20Hat.md)
 
 # Involved In
 - [Nightmare Over Crystal Bay Situation](Nightmare%20Over%20Crystal%20Bay%20Situation.md)

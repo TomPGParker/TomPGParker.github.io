@@ -11,7 +11,7 @@ share: true
 Is currently trying to rebuild the Crystal Bay [Sawmill](Sawmill.md).
 
 # Inventory
-- [Tomas' Notebook](../../Items/Tomas'%20Notebook.md)
+- [Tomas' Notebook](../Items/Tomas'%20Notebook.md)
 
 # Involved In
 - [The Tomb of Black Sand Situation](The%20Tomb%20of%20Black%20Sand%20Situation.md)
