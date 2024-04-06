@@ -7,6 +7,7 @@ SystemStrain: "2"
 share: true  
 ---  
 #PlayerCharacter   
+  
 Healer/mage. Owner of [Windler's Mansion](Windler's%20Mansion.md).  
 ## Inventory  
 - [Deed to Windler's Mansion](../Items/Deed%20to%20Windler's%20Mansion.md)  
