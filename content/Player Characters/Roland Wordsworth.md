@@ -7,8 +7,12 @@ SystemStrain: "0"
 share: true
 ---
 #PlayerCharacter
+# Summary
+Wanderer. Was a bodyguard for merchants in The Strand. After failing to save his brother, has been exiled from The Strand and looking to start anew in Crystal Bay.
 
-## Inventory
+# Picture
+![Pasted image 20240406155732.png](../Meta/Resources/Attachements/Pasted%20image%2020240406155732.png)
+# Inventory
 
 
 # Involved In
