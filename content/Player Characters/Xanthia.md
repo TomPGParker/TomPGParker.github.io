@@ -1,15 +1,17 @@
 ---  
 Player: Tischa  
-Experience: "9"  
+Experience: 10  
 Level: "2"  
-Reknown: "5"  
-SystemStrain: "3"  
+Reknown: "6"  
+SystemStrain: "7"  
 share: true  
 ---  
 #PlayerCharacter   
 49 years old - seeker of secrets. Swindler.  
   
 Has a brother who died.  
+# Goal  
+Gain a secret or treasure.  
 ## Inventory  
 - [Windler's Boots](../Items/Windler's%20Boots.md)  
 - [Wind Up Toy Animals](../Items/Wind%20Up%20Toy%20Animals.md)  
