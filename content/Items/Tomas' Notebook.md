@@ -25,3 +25,5 @@ Contains three passages that can be decoded. All three have now been decoded.
 4. The pillar guardian will attack anyone who attempts to steal mundane treasure.  
   
 Once the book has been fully decoded is also acts as a casting manual for "Casting Forth the Inner Eye".  
+  
+![Pasted image 20240412182251.png](../Meta/Resources/Attachements/Pasted%20image%2020240412182251.png)
