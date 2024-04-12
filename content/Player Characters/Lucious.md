@@ -1,12 +1,15 @@
 ---  
 Player: Alex  
-Experience: "6"  
+Experience: 7  
 Level: "2"  
-Reknown: "5"  
-SystemStrain: "0"  
+Reknown: "6"  
+SystemStrain: "7"  
 share: true  
 ---  
 #PlayerCharacter   
+  
+## Goal  
+Try to get all current known villagers out of the [Temple of Halcyon](Temple%20of%20Halcyon.md).  
   
 ## Inventory  
 - [Green Fairy Hat](../Items/Green%20Fairy%20Hat.md)  
