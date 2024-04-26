@@ -1,9 +1,9 @@
 ---  
 Player: Ryan  
-Experience: "9"  
+Experience: 10  
 Level: "2"  
-Reknown: "13"  
-SystemStrain:   
+Reknown: "14"  
+SystemStrain: "0"  
 share: true  
 ---  
 #PlayerCharacter   

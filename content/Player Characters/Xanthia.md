@@ -15,8 +15,8 @@ Gain a secret or treasure.
 ## Inventory  
 - [Windler's Boots](../Items/Windler's%20Boots.md)  
 - [Wind Up Toy Animals](../Items/Wind%20Up%20Toy%20Animals.md)  
-- [Golden Apple](../Items/Golden%20Apple.md)  
 - [Mount Mourn Treasure Map](../Items/Mount%20Mourn%20Treasure%20Map.md)  
+- [Golden Apple](../Items/Golden%20Apple.md)  
   
 # Involved In  
 - [Nightmare Over Crystal Bay Situation](Nightmare%20Over%20Crystal%20Bay%20Situation.md)  
