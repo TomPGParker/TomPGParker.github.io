@@ -20,5 +20,5 @@ Wanderer. Was a bodyguard for merchants in The Strand. After failing to save his
   
 # Involved In  
 - [The Tomb of Black Sand Situation](The%20Tomb%20of%20Black%20Sand%20Situation.md)  
-- [Werewolf Situation](Werewolf%20Situation.md)  
 - [Witchburner Situation](Witchburner%20Situation.md)  
+- [Werewolf Situation](Werewolf%20Situation.md)  
