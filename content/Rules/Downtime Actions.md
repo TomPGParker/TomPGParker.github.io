@@ -22,7 +22,8 @@ Every time a mission based adventure is completed (or abandoned) the party gets 
 **Building an Institution:** Step Tracker    
 **Burglary:** Single Downtime    
 **Create a Magic Item**: Step Tracker    
-**Craft:** Single Downtime    
+**Craft:** Single Downtime   
+**Craft Spell**: Single Downtime  
 **Expeditions**: Single Downtime    
 **Burglary:** Single Downtime    
 **Pit Fighting:** Single Downtime    
