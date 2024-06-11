@@ -1,17 +1,19 @@
 ---  
 Player: Alex  
-Experience: 7  
+Experience: 10  
 Level: "2"  
-Reknown: "6"  
-SystemStrain: "7"  
+Reknown: "18"  
+SystemStrain: "8"  
 share: true  
 ---  
 #PlayerCharacter   
   
+Age: 25  
 ## Goal  
-Try to get all current known villagers out of the [Temple of Halcyon](Temple%20of%20Halcyon.md).  
+Make sure none of the mob attacking the temple are killed  
   
 ## Inventory  
+- [Necklace of Halcyon's Grace](Necklace%20of%20Halcyon's%20Grace.md)  
 - [Green Fairy Hat](../Items/Green%20Fairy%20Hat.md)  
   
 # Involved In  
