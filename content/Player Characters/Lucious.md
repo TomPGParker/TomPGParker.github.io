@@ -1,9 +1,9 @@
 ---  
 Player: Alex  
-Experience: 10  
-Level: "2"  
-Reknown: "18"  
-SystemStrain: "8"  
+Experience: 19  
+Level: "3"  
+Reknown: "19"  
+SystemStrain: "0"  
 share: true  
 ---  
 #PlayerCharacter   
