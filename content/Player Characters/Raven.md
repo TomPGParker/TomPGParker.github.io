@@ -1,9 +1,9 @@
 ---  
 Player: Evie  
-Experience: 8  
-Level: "2"  
-Reknown: "15"  
-SystemStrain: "1"  
+Experience: 15  
+Level: "3"  
+Reknown: "17"  
+SystemStrain: "0"  
 share: true  
 ---  
 #PlayerCharacter   
