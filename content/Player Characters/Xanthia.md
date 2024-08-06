@@ -1,9 +1,9 @@
 ---  
 Player: Tischa  
-Experience: 13  
+Experience: 22  
 Level: "3"  
-Reknown: "18"  
-SystemStrain: "7"  
+Reknown: "3"  
+SystemStrain: "1"  
 share: true  
 ---  
 #PlayerCharacter   
@@ -12,6 +12,8 @@ share: true
 Has a brother who died.  
   
 She's attracted the attention of [Saint Halcyon](Saint%20Halcyon.md) - for better or worse.  
+  
+![IMG_0051.png](../Meta/Resources/Attachements/IMG_0051.png)  
 ## Goal  
 Gain a secret or treasure.  
 ## Inventory  
